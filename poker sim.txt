@@ -1,0 +1,1 @@
+all checks done, need to change draw condition so if both players have a pair it goes on the value of the card in the pair
